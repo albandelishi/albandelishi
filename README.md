@@ -1,4 +1,4 @@
-<h1 align="center"><> Hi 👋, I'm Alban </></h1>
+<h1 align="center">Hi 👋, I'm <name>Alban</name> </h1>
 <h3 align="center">A full stack web developer with the desire to learn more</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albandelishi&label=Profile%20views&color=0e75b6&style=flat" alt="albandelishi" /> </p>
