@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Docker and AWS (DevOPS)**
 
-- 👨‍💻 All of my projects are available at [albandelishi.dev](albandelishi.dev)
+- 👨‍💻 All of my projects are available at [albandelishi.dev](https://albandelishi.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
