@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [chat app](https://github.com/albandelishi/chat-nodejs-socketio.git)
-
-- 🌱 I’m currently learning **Docker and AWS (DevOPS)**
-
 - 👨‍💻 All of my projects are available at [albandelishi.dev](https://albandelishi.dev)
 
 <h3 align="left">Connect with me:</h3>
